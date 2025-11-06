@@ -4,9 +4,6 @@ const int motorIn2 = 10;
 #define LED_PIN 8
 #define BUTTON_PIN 2
 
-
-// byte lastButtonState = LOW;
-// byte ledState = LOW;
 bool ledState = false;
 bool lastButtonState = LOW;
 unsigned long lastDebounceTime = 0;
