@@ -7,7 +7,7 @@ const int motorIn2 = 10;
 #define LED_PIN 8
 #define BUTTON_PIN 2
 #define DHT_PIN 4
-#define DHT_TYPE DHT11       // Change to DHT22 if needed
+#define DHT_TYPE DHT11
 
 // --- Globals ---
 DHT dht(DHT_PIN, DHT_TYPE);
