@@ -24,4 +24,5 @@ DHT sensor library by Adafruit
 # My contributions:
 I created the original fan circuit and arduino code for the fan. I contributed to integrating the button circuit and button arduino code with my fan circuit and code. I helped with figuring out how the python code communicates with the arduino code for turning the fan on and off. I integrated the temperature arduino code with the button and fan code. 
 
-
+# Instruction video:
+https://youtu.be/PD56wo9Ue-Q 
