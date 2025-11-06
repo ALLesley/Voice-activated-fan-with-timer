@@ -21,4 +21,7 @@ DFRobot_DHT11 by DFRobot <br>
 DHT Sensors Non-Blocking by Toan Nguyen <br>
 DHT sensor library by Adafruit
 
+# My contributions:
+I created the original fan circuit and arduino code for the fan. I contributed to integrating the button circuit and code with my fan stuff. 
+
 
