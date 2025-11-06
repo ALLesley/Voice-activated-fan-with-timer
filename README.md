@@ -10,10 +10,10 @@ L293D<br>
 
 # Software components:
 Arduino IDE<br>
-VS Code to run python<br>
+VS Code to run python<br><br>
 For AI: <br>
 pip install GoogleAudio <br>
-pip install SpeechRecognition <br>
+pip install SpeechRecognition <br><br>
 Arduino libraries: <br>
 Adafruit Unified Sensor by Adafruit <br>
 BH1750 by Christopher Laws <br>
