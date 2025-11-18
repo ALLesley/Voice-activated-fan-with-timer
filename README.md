@@ -10,7 +10,7 @@ L293D temperature sensor<br>
 
 # Software components:
 Arduino IDE<br>
-VS Code to run python<br><br>
+VS Code to run python (version 3.11.0)<br><br>
 For AI: <br>
 pip install GoogleAudio <br>
 pip install SpeechRecognition <br><br>
