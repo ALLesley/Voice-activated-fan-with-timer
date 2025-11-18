@@ -1,5 +1,5 @@
 # Voice actived fan with timer
-This project consists of a fan that is controlled by a timer that's set by text-to-speech AI. When you turn on a light (simulated with a button and LED arduino circuit), the AI will ask how long you want the fan on for in seconds. The fan will turn off when the timer is done or the light is turned off. When the light is off, the temperature sensor will check if the room is too hot. The fan will turn on while the temperature is above the set threshold. 
+This project consists of a fan that is controlled by a timer that's set by speech recognition AI. When you turn on a light (simulated with a button and LED arduino circuit), the AI will ask how long you want the fan on for. The time can be set for any number of seconds or minutes. The fan will turn off when the timer is done or the light is turned off. When the light is off, the temperature sensor will check if the room is too hot. The fan will turn on while the temperature is above the set threshold. 
 
 # Hardware components:
 An Arduino (I have a Mega 2560)<br>
