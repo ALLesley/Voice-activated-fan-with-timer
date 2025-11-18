@@ -6,7 +6,8 @@ An Arduino (I have a Mega 2560)<br>
 LED<br>
 Button<br>
 3-6V Fan Motor with wires<br>
-L293D temperature sensor<br>
+L293D<br>
+DHT11 Temperature sensor<br>
 
 # Software components:
 Arduino IDE<br>
