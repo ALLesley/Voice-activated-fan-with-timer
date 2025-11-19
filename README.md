@@ -17,7 +17,6 @@ pip install GoogleAudio <br>
 pip install SpeechRecognition <br><br>
 Arduino libraries: <br>
 Adafruit Unified Sensor by Adafruit <br>
-BH1750 by Christopher Laws <br>
 DFRobot_DHT11 by DFRobot <br>
 DHT Sensors Non-Blocking by Toan Nguyen <br>
 DHT sensor library by Adafruit
